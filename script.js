@@ -20,7 +20,7 @@ function randresult(){
         document.querySelector("h1").innerHTML = "Player 2 Wins! 🚩 Reload!!";
       }
       else {
-        document.querySelector("h1").innerHTML = "Draw!";
+        document.querySelector("h1").innerHTML = "Draw! Reload!!";
       }    
 }
   
